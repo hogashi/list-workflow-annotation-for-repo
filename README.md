@@ -1,5 +1,7 @@
 # list-workflow-annotation-for-repo
 
+Lists all workflow annotations for a repo in markdown
+
 ## Usage
 
 - warning: this script requests many GitHub API with gh command
