@@ -4,7 +4,7 @@ Lists all workflow annotations for a repo in markdown
 
 ## Usage
 
-- warning: this script requests many GitHub API with gh command
+- warning: this script requests many GitHub API with gh command https://cli.github.com/
 
 ```sh
 $ gh auth login
